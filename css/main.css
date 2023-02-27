@@ -132,6 +132,10 @@ h6,
     text-rendering: optimizeLegibility;
 }
 
+.name-pdf {
+    color: #333333;
+}
+
 h1,
 .h1,
 h2,
